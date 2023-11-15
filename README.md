@@ -1,6 +1,8 @@
 # Hi 👋, I'm Mohammad Reza Sahel
 
-### Student of Python Programming Language at DCI (Digital Career Institut)
+#### About 12 years I was worked as a Photojournalist and now I want learn Python Programming. 
+
+### So I am a Student of Python Programming Language at DCI (Digital Career Institut)
 
 
 
